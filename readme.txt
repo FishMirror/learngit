@@ -6,5 +6,5 @@ Heheda
 Hahahahh
 12345
 test
-Creating a new branch is quick $ feature1.
+Creating a new branch is quick and feature1.
 }
